@@ -23,3 +23,6 @@ In Drill Machine Game, your objective is to collect as much money as possible by
 4. Fuel depletion ends the game, displaying the total money collected.
 5. Gravity applies: the machine falls if no element is underneath it.
 6. The machine can only fly up in empty spaces and cannot drill upwards.
+
+## Screenshot 
+![Screenshot](docs/images/game_ss.png)
